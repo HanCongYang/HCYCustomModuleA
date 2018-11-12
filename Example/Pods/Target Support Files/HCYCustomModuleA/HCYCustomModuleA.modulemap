@@ -1,0 +1,6 @@
+framework module HCYCustomModuleA {
+  umbrella header "HCYCustomModuleA-umbrella.h"
+
+  export *
+  module * { export * }
+}

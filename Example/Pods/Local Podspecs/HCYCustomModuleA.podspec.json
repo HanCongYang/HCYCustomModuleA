@@ -1,0 +1,22 @@
+{
+  "name": "HCYCustomModuleA",
+  "version": "0.1.0",
+  "summary": "A short description of HCYCustomModuleA.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/warship495949598@vip.qq.com/HCYCustomModuleA",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "warship495949598@vip.qq.com": "warship495949598@vip.qq.com"
+  },
+  "source": {
+    "git": "https://github.com/warship495949598@vip.qq.com/HCYCustomModuleA.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HCYCustomModuleA/Classes/**/*"
+}

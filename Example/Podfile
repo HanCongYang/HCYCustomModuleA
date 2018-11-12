@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HCYCustomModuleA_Example' do
+  pod 'HCYCustomModuleA', :path => '../'
+
+  target 'HCYCustomModuleA_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end

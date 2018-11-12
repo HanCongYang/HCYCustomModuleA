@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - HCYCustomModuleA (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - HCYCustomModuleA (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  HCYCustomModuleA:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  HCYCustomModuleA: 9c5efced98ab631ab0a9467909df2ead08efe9dd
+
+PODFILE CHECKSUM: 8470e05b95d6635661ba81e08bfcda11aa70847a
+
+COCOAPODS: 1.5.3
