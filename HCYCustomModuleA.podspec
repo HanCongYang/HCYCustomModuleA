@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'HCYCustomModuleA'
-  s.version          = '0.0.3'
+  s.version          = '0.0.6'
   s.summary          = '组件化'
   s.description      = '组件化组件化'
   s.homepage         = 'https://github.com/HanCongYang/HCYCustomModuleA.git'
