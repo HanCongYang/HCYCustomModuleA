@@ -11,6 +11,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface HCYHeader : NSObject
 
++ (UIView *)createAView;
+
 @end
 
 NS_ASSUME_NONNULL_END
